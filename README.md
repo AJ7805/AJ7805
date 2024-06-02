@@ -1,3 +1,4 @@
+Die een is anderste as die... 
 - 👋 Hi, I’m @AJ7805
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
